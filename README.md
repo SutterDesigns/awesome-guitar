@@ -19,18 +19,46 @@ Looking for contributors. Submit a pull request if you have something to add.
 Please check the contribution guidelines for info on formatting and writing pull requests. </div>
  <h1>Contents</h1>
  <hr>
+ <ul>
+  <li><a href="#Development">Development Projects</a>
+    <ul>
+      <li><a href="#API">APIs</a></li>
+      <li><a href="#APPS">Apps</a></li>
+      <li><a href="#Bots">Bots</a></li>
+      <li><a href="#Misc">Miscellaneous</a></li>
+    </ul>
+  <li><a href="#Resources">Resources & Others</a>
+  <ul>
+  <li><a href="#Communities">Communities</a></li>
+      <li><a href="#Guitar">Guitar Brands</a></li>
+      <li><a href="#Tips">Tips & Tricks</a></li>
+      <li><a href="#Other">Others</a></li>
+    </ul>
+  </li>
+</ul>
  
  <h2>Development Projects</h2>
  <hr>
+ <p id="#Development"> </p>
  <b>APIS</B>
+  <p id="#API"> </p>
  <b> APPS </b>
+  <p id="#APPS"> </p>
  <b>BOTS<b>
   <b> Miscellaneous</b>
+   <p id="#Misc"> </p>
   <h3>Resources & Others</h3>
+   <p id="#Resources"> </p>
   <hr>
   <b> Communities </b>
+   <p id="#Community"> 
+    <ul>
+  <li><a href="https://www.reddit.com/r/Guitar/"> /r/Guitar</a></li> - Guitar Subreddit
+  <li><a href="https://www.elixirstrings.com/tipsandtricks"> Online demos provided by Elixir guitar strings.</a></li>
+  </ul>
+  </p>
   <b>Guitar Brands </b>
-  
+   <p id="#Guitar"> 
 <table>
   <tr>
    <th>Guitar Brands</th>
@@ -111,19 +139,24 @@ Please check the contribution guidelines for info on formatting and writing pull
     <td><a href="https://www.facebook.com/BCRichGuitars"> Facebook</a></td>
   </tr>
 </table>
-
+</p>
   <b>Tips & Tricks</b>
+   <p id="#Tips"> 
   <ul>
   <li><a href="https://www.uberchord.com/learn-guitar/chords/chord-finder/"> Online Chord Finder </a></li>
   <li><a href="https://www.elixirstrings.com/tipsandtricks"> Online demos provided by Elixir guitar strings.</a></li>
+  </ul>
+  </p>
   <b>Wiki</b>
+   <p id="#Wiki">
   <ul>
   <li><a href="https://en.wikibooks.org/wiki/Guitar/Anatomy_of_a_Guitar">Anatomy of a guitar</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Guitar">Guitar Wikipedia</a></li>
-  </ul>
+  </ul> </p>
   <b>Others</b>
+   <p id="#Other"> 
   <ul>
-  <li>http://www.guitaralchemist.com/  A Software to learn guitar chords.</li>
+    <li><a href="http://www.guitaralchemist.com/">  A Software to learn guitar chords.</a></li> </p>
  </ul>
   
 <h4>License</h4>
